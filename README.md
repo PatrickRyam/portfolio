@@ -1,6 +1,6 @@
 # portfolio
 um pouco sobre mim
-# Octoeli
+# Patrick
 
 ## Conecte-se comigo
 
